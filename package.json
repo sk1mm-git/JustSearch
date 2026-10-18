@@ -1,0 +1,13 @@
+{
+  "name": "justmc-catalog",
+  "version": "1.0.0",
+  "description": "JustMC справочник",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  }
+}
